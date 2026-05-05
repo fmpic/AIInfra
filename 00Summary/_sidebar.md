@@ -1,5 +1,4 @@
 * [🔙 返回上一级](/README.md)
-
 * [01ScalingLaw](/00Summary/01ScalingLaw.md)
 * [02StandardScaling](/00Summary/02StandardScaling.md)
 * [03TTScaling](/00Summary/03TTScaling.md)

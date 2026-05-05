@@ -1,5 +1,4 @@
 * [🔙 返回上一级](/04Train/README.md)
-
 * [01Introduction](/04Train/01ParallelBegin/01Introduction.md)
 * [02SPTD](/04Train/01ParallelBegin/02SPTD.md)
 * [03CP](/04Train/01ParallelBegin/03CP.md)
