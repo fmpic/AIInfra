@@ -1,0 +1,10 @@
+* [🔙 返回上一级](/05Infer/README.md)
+
+* [02KnowDistillation](/05Infer/06CompDistill/02KnowDistillation.md)
+* [05Quantization01](/05Infer/06CompDistill/05Quantization01.md)
+* [05Quantization02](/05Infer/06CompDistill/05Quantization02.md)
+* [Code01Precision](/05Infer/06CompDistill/Code01Precision.md)
+* [Code02Quant](/05Infer/06CompDistill/Code02Quant.md)
+* [Code03Distiallation](/05Infer/06CompDistill/Code03Distiallation.md)
+* [README](/05Infer/06CompDistill/README.md)
+* [bitsandbytesINT8](/05Infer/06CompDistill/bitsandbytesINT8.md)

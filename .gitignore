@@ -25,4 +25,4 @@ main.py
 .python-version
 pyproject.toml
 uv.lock
-
+info.log

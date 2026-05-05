@@ -1,0 +1,12 @@
+* [🔙 返回上一级](/README.md)
+
+* [**01Basic**](/06AlgoData/01Basic/README.md)
+* [**02MoE**](/06AlgoData/02MoE/README.md)
+* [**03NewArch**](/06AlgoData/03NewArch/README.md)
+* [**04ImageTextGenerat**](/06AlgoData/04ImageTextGenerat/README.md)
+* [**05VideoGenerat**](/06AlgoData/05VideoGenerat/README.md)
+* [**06AudioGenerat**](/06AlgoData/06AudioGenerat/README.md)
+* [**07DataEngineer**](/06AlgoData/07DataEngineer/README.md)
+* [**08Special**](/06AlgoData/08Special/README.md)
+* [**09VectorDB**](/06AlgoData/09VectorDB/README.md)
+* [README](/06AlgoData/README.md)
